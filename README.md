@@ -25,3 +25,5 @@ Submission Belajar Fundamental Front-End Web Development (Dicoding)
  4. Memanfaatkan  _Webpack_  sebagai  _environment_ dalam pengembangan proyek (tahap  _development_).
  5. Memanfaatkan API dengan menggunakan konsep  _AJAX_  dalam menampilkan data yang dinamis pada aplikasi yang dibuat.
  6. Anda bebas menentukkan tema aplikasi yang ingin dibuat,  **terkecuali**  tema  _Club Finder/__Pencarian Klub Olahraga_,  _Sepak Bola_, atau  _Dicoding Books_.
+ 
+ ![alt text](https://raw.githubusercontent.com/yat98/wOVID-19/master/ss.png)
