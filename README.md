@@ -1,6 +1,6 @@
 # wOVID-19
 
-Submission Belajar Fundamental Front-End Web Development
+Submission Belajar Fundamental Front-End Web Development (Dicoding)
 
 **CARA INSTALASI**
 
